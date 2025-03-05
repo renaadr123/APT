@@ -6,7 +6,7 @@
   and that the file was named correctly.
 -->
 
-## Step 3: Open a pull request
+## Step 3: Open a pull pull request
 
 _Nice work making that commit! :sparkles:_
 
